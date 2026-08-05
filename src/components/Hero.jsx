@@ -18,10 +18,10 @@ function Hero() {
           Fashion
         </p>
 
-        <h1 className="text-6xl font-bold leading-tight max-w-4xl">
-          The Best Street Style
+        <h1 className="text-3xl font-bold leading-tight max-w-4xl">
+          How to unlock creativity % make
           <br />
-          From Fashion Week
+          something useful?
         </h1>
 
         <p className="mt-6 text-lg">
